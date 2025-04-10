@@ -11,3 +11,5 @@ distribution in a digital image.
 
 ![](Results/00.%20Image.png)<br>
 ![](Results/01.%20Histogram.png)<br>
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/image-histogram.matlab)
